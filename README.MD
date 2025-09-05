@@ -15,3 +15,11 @@ No installation needed. Just clone the repo and open index.html in a browser.
 
 ```bash
 git clone https://github.com/sbpatel55/CSP451-CheckPoint1-sbpatel55.git
+
+## 🤝 Contributing
+
+Feel free to fork this repository and open pull requests.
+
+## 📄 License
+
+This project is licensed under the MIT License.

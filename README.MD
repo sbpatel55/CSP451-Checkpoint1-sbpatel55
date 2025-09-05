@@ -1,16 +1,17 @@
 # CSP451 CheckPoint 1
 
-This project demonstrates basic Git and github skills.
+This project demonstrates Git and GitHub skills for CSP451.
 
-## Files Include 
+## 📁 Files Included
+- index.html – Basic HTML structure
+- style.css – Simple CSS styling
+- script.js – JavaScript file with console message
+- .gitignore – Ignore patterns
+- README.md – Project documentation
 
-- index.html
-- style.css
-- script.js
+## ⚙️ Installation
 
-## Installation 
-No installation needed. Just open index.html in a browser.
+No installation needed. Just clone the repo and open index.html in a browser.
 
-## Useage
-
-To view the project, open 'index.html' in your browers.
+```bash
+git clone https://github.com/sbpatel55/CSP451-CheckPoint1-sbpatel55.git
